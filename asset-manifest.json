@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/STEM-mousetrap-car/static/css/main.31162a34.css",
-    "main.js": "/STEM-mousetrap-car/static/js/main.dc39126f.js",
+    "main.css": "/STEM-mousetrap-car/static/css/main.671258dd.css",
+    "main.js": "/STEM-mousetrap-car/static/js/main.92faf116.js",
     "static/media/Team1.jpg": "/STEM-mousetrap-car/static/media/Team1.b8f65c5bfbfdeac1c4ff.jpg",
     "static/media/placeholder.jpg": "/STEM-mousetrap-car/static/media/placeholder.4010abd1aeef53397bb7.jpg",
     "static/media/money.svg": "/STEM-mousetrap-car/static/media/money.4bfb4df4ffce9d5645ec232281feb864.svg",
     "static/media/coin.svg": "/STEM-mousetrap-car/static/media/coin.4a60593ee2ef2bcb74ae42a8489fb536.svg",
     "index.html": "/STEM-mousetrap-car/index.html",
-    "main.31162a34.css.map": "/STEM-mousetrap-car/static/css/main.31162a34.css.map",
-    "main.dc39126f.js.map": "/STEM-mousetrap-car/static/js/main.dc39126f.js.map"
+    "main.671258dd.css.map": "/STEM-mousetrap-car/static/css/main.671258dd.css.map",
+    "main.92faf116.js.map": "/STEM-mousetrap-car/static/js/main.92faf116.js.map"
   },
   "entrypoints": [
-    "static/css/main.31162a34.css",
-    "static/js/main.dc39126f.js"
+    "static/css/main.671258dd.css",
+    "static/js/main.92faf116.js"
   ]
 }
